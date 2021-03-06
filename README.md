@@ -1,4 +1,4 @@
-# Face-Detection
+# Face Detection Using OpenCV 
 <img src="icon.png" align="right" />
 
-This is a beginner project in which I implement real-time human face recognition. We will build this project in using Haar Cascade Frontal Face Classifier algorithm.
+In this beginner’s project, we will learn how to implement real-time human face recognition. We will build this project in Python using OpenCV. We will study the Haar Cascade Classifier algorithms in OpenCV. Haar Cascade Classifier is a popular algorithm for object detection.
